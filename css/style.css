@@ -34,3 +34,24 @@ background-color:#F0F6FB ;
     border-radius: 30px;
     font-weight: 600;
 }
+.text-subtitle{
+color: #6C63FF;
+font-size: 24px;
+font-weight: 700;
+}
+.text-title{
+    font-size: 46px;
+    font-weight: 700;
+}
+.text-p{
+    font-size: 18px;
+    font-weight: 400;
+    color: dimgray;
+
+}
+.img-left{
+    margin-left: -260px;
+}
+.text-link{
+    color: black;
+}
