@@ -1,0 +1,57 @@
+body{
+    font-family: 'Bakbak One', cursive;
+font-family: 'Poppins', sans-serif;
+}
+
+.nav-link, .navbar-brand{
+    color: rgb(12, 12, 12);
+    font-weight: 700;
+    font-size: 18px;
+}
+.navbar-brand {
+    font-size: 40px;
+}
+#navbarNav {
+    justify-content: end;
+}
+.mybackground {
+background-color:#F0F6FB ;
+}
+.banner-heading{
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 1.23;
+}
+.banner-subheading{
+    font-size: 24;
+    font-weight: 400;
+}
+.banner-btn{
+    text-decoration: none;
+    background-color: #6C63FF;
+    color: white;
+    padding: 7px 30px;
+    border-radius: 30px;
+    font-weight: 600;
+}
+.text-subtitle{
+color: #6C63FF;
+font-size: 24px;
+font-weight: 700;
+}
+.text-title{
+    font-size: 46px;
+    font-weight: 700;
+}
+.text-p{
+    font-size: 18px;
+    font-weight: 400;
+    color: dimgray;
+
+}
+.img-left{
+    margin-left: -260px;
+}
+.text-link{
+    color: black;
+}
