@@ -52,6 +52,13 @@ font-weight: 700;
 .img-left{
     margin-left: -260px;
 }
-.text-link{
+.t-link{
     color: black;
+    font-size: 16px;
+    font-weight: 700;
+}
+.text-color{
+    color: #6C63FF;
+    font-weight: 600;
+    font-size: 20px;
 }
