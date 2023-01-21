@@ -62,3 +62,27 @@ font-weight: 700;
     font-weight: 600;
     font-size: 20px;
 }
+.img-rounded-background{
+    background-color: #F0F6FB;
+    border-radius: 100%;
+}
+.service-title{
+    font-size: 21px;
+    font-weight: 700;
+}
+.icon{
+    background-color: #6C63FF;
+    padding: 20px;
+    border-radius: 50%;
+    color: white;
+}
+.icon{
+    -webkit-transition-duration: .2s;
+    
+}
+.mycard:hover .icon{
+   margin-left: 30px; 
+   
+}
+
+}
