@@ -85,4 +85,9 @@ font-weight: 700;
    
 }
 
+.mybackground2{
+    background-color:#F0F6FB;
+}
+.myborder-bottom{
+    border-bottom: 3px solid #6C63FF;
 }
