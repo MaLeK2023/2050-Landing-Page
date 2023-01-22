@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     font-family: 'Bakbak One', cursive;
 font-family: 'Poppins', sans-serif;
@@ -90,4 +91,98 @@ font-weight: 700;
 }
 .myborder-bottom{
     border-bottom: 3px solid #6C63FF;
+=======
+body{
+    font-family: 'Bakbak One', cursive;
+font-family: 'Poppins', sans-serif;
+}
+
+.nav-link, .navbar-brand{
+    color: rgb(12, 12, 12);
+    font-weight: 700;
+    font-size: 18px;
+}
+.navbar-brand {
+    font-size: 40px;
+}
+#navbarNav {
+    justify-content: end;
+}
+.mybackground {
+background-color:#F0F6FB ;
+}
+.banner-heading{
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 1.23;
+}
+.banner-subheading{
+    font-size: 24;
+    font-weight: 400;
+}
+.banner-btn{
+    text-decoration: none;
+    background-color: #6C63FF;
+    color: white;
+    padding: 7px 30px;
+    border-radius: 30px;
+    font-weight: 600;
+}
+.text-subtitle{
+color: #6C63FF;
+font-size: 24px;
+font-weight: 700;
+}
+.text-title{
+    font-size: 46px;
+    font-weight: 700;
+}
+.text-p{
+    font-size: 18px;
+    font-weight: 400;
+    color: dimgray;
+
+}
+.img-left{
+    margin-left: -260px;
+}
+.t-link{
+    color: black;
+    font-size: 16px;
+    font-weight: 700;
+}
+.text-color{
+    color: #6C63FF;
+    font-weight: 600;
+    font-size: 20px;
+}
+.img-rounded-background{
+    background-color: #F0F6FB;
+    border-radius: 100%;
+}
+.service-title{
+    font-size: 21px;
+    font-weight: 700;
+}
+.icon{
+    background-color: #6C63FF;
+    padding: 20px;
+    border-radius: 50%;
+    color: white;
+}
+.icon{
+    -webkit-transition-duration: .2s;
+    
+}
+.mycard:hover .icon{
+   margin-left: 30px; 
+   
+}
+
+.mybackground2{
+    background-color:#F0F6FB;
+}
+.myborder-bottom{
+    border-bottom: 3px solid #6C63FF;
+>>>>>>> ad8f90d56aef6b68f4bfd30a9987b0e92dc13cc6
 }
